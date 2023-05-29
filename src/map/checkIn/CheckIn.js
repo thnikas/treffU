@@ -65,7 +65,7 @@ const PlacesList = () => {//where the places are shown in the cards
     <View>
       {item.photos && (//render the cards
         
-        <Card title={item.name}  id={item.place_id} imageUrl={`https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=${item.photos[0].photo_reference}&key=AIzaSyDRMF53T96B-sWIA1W7gutV1eMmVGD_xIc`}/>
+        <Card title={item.name}  id={item.place_id} imageUrl={``}/>
       )}
     </View>
   );
