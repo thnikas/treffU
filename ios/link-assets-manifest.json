@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Inter-VariableFont_slnt,wght.ttf",
+      "sha1": "44b415f3b0ac1da7f3044ba6bcc542a649d4a447"
+    },
+    {
+      "path": "assets/fonts/Lato-Regular.ttf",
+      "sha1": "06775847c3ad5bdc4525009f41aaf585bfcba4c2"
+    },
+    {
+      "path": "assets/fonts/Lora-Italic-VariableFont_wght.ttf",
+      "sha1": "4ff6999c37999a50b22fc7418d4682d1a5552251"
+    },
+    {
+      "path": "assets/fonts/Lora-VariableFont_wght.ttf",
+      "sha1": "99892d245c2df12e4073a72caae6c064f2e9672a"
+    },
+    {
+      "path": "assets/fonts/Montserrat-VariableFont_wght.ttf",
+      "sha1": "cedb5ba5af6a18e9c1e9c1f6a79d7fca8dd6f942"
+    },
+    {
+      "path": "assets/fonts/OpenSans-VariableFont_wdth,wght.ttf",
+      "sha1": "f8c1c09e84c4df19cf1a7a813b26898936b24be6"
+    },
+    {
+      "path": "assets/fonts/PlayfairDisplay-VariableFont_wght.ttf",
+      "sha1": "936c70a186cfc0573fccf7f77657e3f61e42aa2c"
+    }
+  ]
+}
