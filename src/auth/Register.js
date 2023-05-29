@@ -102,7 +102,7 @@ export default function Register(props) {
                     friends:[],
                     request:[],
                     checkIn:null,
-                    imgUrl:'https://firebasestorage.googleapis.com/v0/b/liebe-13c1b.appspot.com/o/profImg%2Fno-user-profile-picture-24185395.jpg?alt=media&token=7b06c86d-c5d5-4bf2-ab7f-0295f9d9866f'
+                    imgUrl:''
                 }) 
                 }customId()
                
